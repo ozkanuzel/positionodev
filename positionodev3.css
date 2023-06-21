@@ -1,0 +1,52 @@
+div.ana {
+    width: 100%;
+    height: 100%;
+    column-span: all;
+    position: relative;
+    column-span: 1;
+    z-index: 30;
+}
+div.box1 {
+    width:175px;
+    height: 800px;
+    border-style: solid;
+    position:absolute;
+    background-color:rgb(255, 255, 255);
+    column-span: 1;
+    left:25px;
+    top:25px;
+    z-index:26;
+    
+}
+
+div.box2 {
+    width:175px;
+    height:800px;
+    border-style: solid;
+    position:absolute;
+    background-color:rgb(255, 255, 255);
+    left: 275px;
+    top: 25px;
+    z-index: 27;
+}
+
+div.box3 {
+    width:175px;
+    height:800px;
+    border-style: solid;
+    position:absolute;
+    background-color:rgb(255, 255, 255);
+    left:525px;
+    top:25px;
+    z-index: 28;
+}
+div.box4 {
+    width:175px;
+    height:800px;
+    border-style: solid;
+    position:absolute;
+    background-color:rgb(255, 255, 255);
+    left:775px;
+    top:25px;
+    z-index: 29;
+}
